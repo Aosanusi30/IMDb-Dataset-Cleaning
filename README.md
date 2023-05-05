@@ -39,4 +39,7 @@ and West German to Germany
 
 - The votes has two periods (.) and was removed. The votes are in hundreds of thousands and data type number.
 
-# Conclusion
+# Conclusion 
+The cleaning was done using Excel power query and SQL. This was done to sharpen my skills in data cleaning using Excel and SQL. 
+
+## Thank You 
