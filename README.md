@@ -40,8 +40,8 @@ and West German to Germany
 - The votes has two periods (.) and was removed. The votes are in hundreds of thousands and data type number.
 
 # Cleaned Dataset
-- Excel 
-- Click [here](https://github.com/Aosanusi30/IMDb-Dataset-Cleaning/commit/1b8af091671a0c42413791ba9221c809b5973c7b) for the cleaned dataset
+- Click [here](https://github.com/Aosanusi30/IMDb-Dataset-Cleaning/blob/main/Cleaned%20IMDb%20Excel%20Dataset/clean_IMDb%20dataset.xlsx) for the cleaned Excel Dataset
+- Click [here](https://github.com/Aosanusi30/IMDb-Dataset-Cleaning/commit/1b8af091671a0c42413791ba9221c809b5973c7b) for the cleaned SQL dataset
 
 # Conclusion 
 The cleaning was done using Excel power query and SQL. This was done to sharpen my skills in data cleaning using Excel and SQL. 
