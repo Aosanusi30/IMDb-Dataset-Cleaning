@@ -8,9 +8,6 @@ The Internet Movie Database (IMDb) is an online database containing information 
 # About the dataset 
 The dataset is a messy and contains 102 fields and 11 records. After the cleaning, 101 fields and 11 records were left. 
 
-# Uncleaned Dataset
-- Excel 
-- SQL
 # Error in Dataset
 - Symbols in field name 
 - Inappropriate Data type 
@@ -44,7 +41,7 @@ and West German to Germany
 
 # Cleaned Dataset
 - Excel 
-- SQL
+- Click [here](https://github.com/Aosanusi30/IMDb-Dataset-Cleaning/commit/1b8af091671a0c42413791ba9221c809b5973c7b) for the cleaned dataset
 
 # Conclusion 
 The cleaning was done using Excel power query and SQL. This was done to sharpen my skills in data cleaning using Excel and SQL. 
